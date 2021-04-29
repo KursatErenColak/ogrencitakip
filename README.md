@@ -1,0 +1,2 @@
+# ogrencitakip
+Ogrenci Takip Uygulaması
